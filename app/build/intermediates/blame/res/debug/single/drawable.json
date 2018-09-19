@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\DeepProject\\HelloNFC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\paris.png",
+        "source": "D:\\DeepProject\\HelloNFC\\app\\src\\main\\res\\drawable\\paris.png"
+    },
+    {
+        "merged": "D:\\DeepProject\\HelloNFC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\london.png",
+        "source": "D:\\DeepProject\\HelloNFC\\app\\src\\main\\res\\drawable\\london.png"
+    },
+    {
+        "merged": "D:\\DeepProject\\HelloNFC\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rome.png",
+        "source": "D:\\DeepProject\\HelloNFC\\app\\src\\main\\res\\drawable\\rome.png"
+    }
+]
